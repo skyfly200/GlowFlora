@@ -16,7 +16,7 @@
 - Hot Glue Gun
 - Scisors
 - Heat Gun (optional)
-- [Soldering Jig](/LED%20Filament%20sodlering%20JIG3.stl)(optional)
+- [Soldering Jig](/LED%20Filament%20soldering%20JIG3.stl)(optional)
 - Origami Fold Press (optional)
 
 ### Steps 

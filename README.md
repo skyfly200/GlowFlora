@@ -24,7 +24,7 @@
 - Twist up battery holder wires with a twist tie leaving about 2CM of twist tie at the base to secure 
 - Hot Glue the twist tie to the back side of the battery holder, avoiding interferance with the lid or switch.
 - Put heat shrink tube over the twisted wires, cutting it to leave about 5-10mm of wires extending out beyond the tubing. Use a heatgun or a fast moving sweeps with a lighter to shrink the tubing. Be careful not to melt anything! Now you have a stem assembly!
-- Fold an origami Lily, optionaly using the press to precrease the fold pattern [Origami Lily Folding Instructions](http://www.origami-instructions.com/origami-lily.html)
+- Fold an origami Lily, optionaly using the press to precrease the fold pattern [Origami Lily Folding Instructions](http://www.origami-instructions.com/origami-lily.html) or using a 3D printed origami "paper" [Origami Lily 3D Model](/Lily_Single%20Color.stl) for a more durable and easy folding version. Using a heat gun with the 3D printed design can help to get the folds to stay and to bend the petals.
 - Cut about 5mm off the base of the flower for the wires to slide through
 - Cut a 12mm piece of heatshirn tubing and slide it over the stem assembly. DONT FORGET THIS STEP 
 - Slide the flower over the stem assembly
